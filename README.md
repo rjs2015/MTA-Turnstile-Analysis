@@ -1,18 +1,3 @@
-###Project 1:  Benson  
-###Topic:      MTA Turnstile Data  
-###Team:       1  
+## Analyzing MTA Turnstile Data  
 
---
-
-####Team Members:
- * RJ Singh
- * Tushar Shah
- * Rahul Desai
- * Niall Murphy
- 
---
-
-Below is our link to our GitHub repo.  
-https://github.com/rjs2015/nyc16_ds9/tree/master/projects/01-benson/student_projects/p1_team3 
-
-PDF slides of presentation have also been uploaded to GitHub
+An exploratory analysis of the MTA's turnstile data to devise a strategy for a street team to optimize canvassing efforts.
